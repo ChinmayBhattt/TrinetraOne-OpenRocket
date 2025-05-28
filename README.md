@@ -8,13 +8,13 @@
 
 ---
 <div>
-    <img src="https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assests/Setup-Rocket-img.png" alt="Transparent Rocket"width="900px"/>
+    <img src="https://github.com/ChinmayBhattt/TrinetraOne-OpenRocket/blob/main/Assests/Screenshot%202025-05-28%20at%2010.40.40%20PM.png" alt="Transparent Rocket" width="990px"/>
 </div>
 
 ## Video Showcase
 
 Watch the rocket design and simulation in action:  
-[![Rocket Video](https://img.shields.io/badge/Watch-Video-green)](https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assets/Space%20Rocket%20Video.mp4)
+[![Rocket Video](https://img.shields.io/badge/Watch-Video-green)](https://github.com/ChinmayBhattt/TrinetraOne-OpenRocket/blob/main/Assests/Screen%20Recording%202025-05-28%20at%2010.45.16%20PM.mov)
 
 ---
 
@@ -36,8 +36,8 @@ Here are some of the key highlights of the LIGHTNING-1 project:
 Below are visuals from the project:
 
 <div align="center">
-  <img src="https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assests/Transperent-Rocket-img.png" alt="Graphical Rocket" width="500px"/>
-<img src="https://github.com/ChinmayBhattt/OpenRocket/blob/main/Assests/Rocket-Graphical-Img.png" alt="Rocket Setup" width="500px"/>
+  <img src="https://github.com/ChinmayBhattt/TrinetraOne-OpenRocket/blob/main/Assests/Screenshot%202025-05-28%20at%2010.42.07%20PM.png" alt="Graphical Rocket" width="500px"/>
+<img src="https://github.com/ChinmayBhattt/TrinetraOne-OpenRocket/blob/main/Assests/Screenshot%202025-05-28%20at%2010.42.16%20PM.png" alt="Rocket Setup" width="500px"/>
 </div>
 
 ---
