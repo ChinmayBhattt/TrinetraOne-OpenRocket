@@ -20,7 +20,7 @@ Watch the rocket design and simulation in action:
 
 ## Project Details
 
-Here are some of the key highlights of the LIGHTNING-1 project:
+Here are some of the key highlights of the TrinetraOne project:
 
 - **Software Used:** OpenRocket
 - **Rocket Design Objective:** Simulating a highly aerodynamic and stable model.
