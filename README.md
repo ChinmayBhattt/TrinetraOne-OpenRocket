@@ -11,6 +11,28 @@
     <img src="https://github.com/ChinmayBhattt/TrinetraOne-OpenRocket/blob/main/Assests/Screenshot%202025-05-28%20at%2010.40.40%20PM.png" alt="Transparent Rocket" width="990px"/>
 </div>
 
+## Visual Showcase
+```mermaid
+flowchart TD
+    A0["TrinetraOne Rocket Model (OpenRocket)"]
+    A1["3D Structural Design"]
+    A2["Aerodynamic Simulation Engine"]
+    A3["Launch & Stability Analysis"]
+    A4["Graphical Performance Charts"]
+    A5["Video Demonstration"]
+    A6["Project Creator: Chinmay Bhatt"]
+    A7["Image Showcase"]
+    A8["Social Media & Outreach"]
+
+    A0 -- "Built using" --> A1
+    A0 -- "Simulated via" --> A2
+    A2 -- "Feeds data to" --> A3
+    A3 -- "Generates metrics for" --> A4
+    A0 -- "Captured in" --> A7
+    A0 -- "Demonstrated in" --> A5
+    A6 -- "Created & Documented" --> A0
+    A6 -- "Shared via" --> A8
+```
 ## Video Showcase
 
 Watch the rocket design and simulation in action:  
