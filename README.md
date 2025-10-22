@@ -33,7 +33,8 @@ flowchart TD
     A6 -- "Created & Documented" --> A0
     A6 -- "Shared via" --> A8
 ```
-<img width="1470" height="956" alt="Screenshot 2025-10-22 at 10 38 55 PM" src="https://github.com/user-attachments/assets/e8e9ddab-b70a-451a-ba35-9215a6a44667" />
+
+<img width="1469" height="834" alt="Screenshot 2025-10-22 at 10 40 27 PM" src="https://github.com/user-attachments/assets/d78c3366-7675-4714-b5f1-d79072dce06c" />
 
 
 ## Video Showcase
