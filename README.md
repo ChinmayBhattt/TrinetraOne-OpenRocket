@@ -33,6 +33,9 @@ flowchart TD
     A6 -- "Created & Documented" --> A0
     A6 -- "Shared via" --> A8
 ```
+<img width="1470" height="956" alt="Screenshot 2025-10-22 at 10 38 55 PM" src="https://github.com/user-attachments/assets/e8e9ddab-b70a-451a-ba35-9215a6a44667" />
+
+
 ## Video Showcase
 
 Watch the rocket design and simulation in action:  
